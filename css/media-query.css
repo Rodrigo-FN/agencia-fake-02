@@ -1,0 +1,37 @@
+
+@media screen and (max-width: 1030px) {
+    .navbar {
+        position: static;
+        
+    }
+
+    .navbar-titulo {
+        text-align: center;
+    }
+
+    .navbar-lista {
+        display: none;
+    }
+
+    .header {
+        text-align: center;
+        padding-top: 0px;
+    }
+
+    .conteudo-header {
+        flex: 100%;
+    }
+
+    .img-header {
+        flex: 100%;
+        text-align: center;
+    }
+
+    .card {
+        flex: 100%;
+    }
+
+    .whats {
+        display: none;
+    }
+}
